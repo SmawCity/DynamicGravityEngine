@@ -1,10 +1,6 @@
-WARNING: I will not be updating this project anymore since I am trying out Unreal Engine 4 for my project
+What is the Dynamic Gravity Engine?
 =======
-
-If you want to use a git repository for your Farseer project then please either click 'forks' in github to find
-a more up to date version of this project, or ask genbox if he'd be so kind as to enable git checkouts on his
-codeplex project.
-
+This is my engine that is built from the Farseer Physics engine (originally developed by Tinco Andringa), with a few key modifications to suit my purposes. The key changes are to the gravity calculations, but I will go into further detail in later releases. 
 
 What is Farseer Physics Engine?
 -------------------------------
